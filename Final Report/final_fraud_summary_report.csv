@@ -1,0 +1,6 @@
+Merchant_Category,Total_Transactions,Fraudulent_Count,Fraud_Rate_Percent,Financial_Loss
+Restaurants,9976,3255,32.63,324390.82
+Travel,10015,3235,32.30,322782.39
+Groceries,10019,3217,32.11,321530.69
+Electronics,9957,3179,31.93,320083.63
+Clothing,10033,3181,31.71,312830.12
